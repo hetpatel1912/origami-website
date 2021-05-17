@@ -9,32 +9,27 @@
 }
 .camel{
     border:solid;
-    background-color: aquamarine;
-    
-  
-    
-    
-   
+    background-color: #7FFFD4;  
 }
 .chameleon{
     border:solid;
-    background-color:lightcoral;
+    background-color:#F08080;
 }
 .cicada{
     border:solid;
-    background-color:lightblue
+    background-color:#D3D3D3
 }
 .panda{
     border:solid;
-    background-color:lavender
+    background-color:#FFFACD
 }
 .pigeon{
     border:solid;
-    background-color:lightgray
+    background-color:#D3D3D3
 }
 .teddy{
     border:solid;
-    background-color:lemonchiffon
+    background-color:#87CEFA
 }
 .text{
     position:absolute;
