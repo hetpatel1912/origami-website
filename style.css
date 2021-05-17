@@ -1,0 +1,47 @@
+.main{
+    display:flex;
+    
+    justify-content:space-evenly;
+    
+    margin-left: 310px;
+  
+   
+}
+.camel{
+    border:solid;
+    background-color: aquamarine;
+    
+  
+    
+    
+   
+}
+.chameleon{
+    border:solid;
+    background-color:lightcoral;
+}
+.cicada{
+    border:solid;
+    background-color:lightblue
+}
+.panda{
+    border:solid;
+    background-color:lavender
+}
+.pigeon{
+    border:solid;
+    background-color:lightgray
+}
+.teddy{
+    border:solid;
+    background-color:lemonchiffon
+}
+.text{
+    position:absolute;
+    margin-top:"10%";
+    margin-left:500px
+   
+}
+
+
+
