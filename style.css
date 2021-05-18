@@ -1,35 +1,38 @@
 .main{
     display:flex;
-    
     justify-content:space-evenly;
-    
-    margin-left: 310px;
+    margin-left: 610px;
   
-   
 }
 .camel{
     border:solid;
     background-color: #7FFFD4;  
+    padding-left: 70px;
 }
 .chameleon{
     border:solid;
     background-color:#F08080;
+    padding-left: 70px;
 }
 .cicada{
     border:solid;
-    background-color:#D3D3D3
+    background-color:#D3D3D3;
+    padding-left: 70px;
 }
 .panda{
     border:solid;
-    background-color:#FFFACD
+    background-color:#FFFACD;
+    padding-left: 70px;
 }
 .pigeon{
     border:solid;
-    background-color:#D3D3D3
+    background-color:#D3D3D3;
+    padding-left: 70px;
 }
 .teddy{
     border:solid;
-    background-color:#87CEFA
+    background-color:#87CEFA;
+    padding-left: 70px;
 }
 .text{
     position:absolute;
