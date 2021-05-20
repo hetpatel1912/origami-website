@@ -9,31 +9,81 @@
     background-color: #7FFFD4;  
     padding-left: 70px;
 }
+.camel:hover img{
+    transform:scale(1.1)
+
+}
+
+
 .chameleon{
     border:solid;
     background-color:#F08080;
     padding-left: 70px;
 }
+.chameleon:hover img{
+    transform:scale(1.1)
+}
+
+
 .cicada{
     border:solid;
     background-color:#D3D3D3;
     padding-left: 70px;
 }
+.cicada:hover img{
+    transform:scale(1.1)
+
+}
+
+
 .panda{
+    position: relative;
     border:solid;
     background-color:#FFFACD;
     padding-left: 70px;
 }
+.panda:hover img{
+    transform: scale(1.1);
+}
+
+
 .pigeon{
     border:solid;
     background-color:#D3D3D3;
     padding-left: 70px;
 }
+.pigeon:hover img{
+    transform:scale(1.1)
+}
+
+
 .teddy{
     border:solid;
     background-color:#87CEFA;
     padding-left: 70px;
 }
+.teddy:hover img{
+    transform:scale(1.1)
+}
+.follow{
+    display: flex;
+    flex-direction: row;
+}
+
+.fb:hover img{
+    transform:scale(1.1)
+}
+.ig:hover img{
+    transform:scale(1.1)
+}
+.tw:hover img{
+    transform:scale(1.1)
+}
+.g:hover img{
+    transform:scale(1.1)
+}
+
+
 .text{
     position:absolute;
     margin-top:"10%";
@@ -43,6 +93,15 @@
 .bg{
     margin-left: -7px;
 }
+a:link{
+ color:black
+}
+a:visited{
+    color:red;
+   }
+
+
+
 
 
 
